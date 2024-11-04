@@ -1,34 +1,17 @@
-# Windows
 Thumbs.db
 ehthumbs.db
-
-# VS Code
 .vscode/
-
-# Node.js
 node_modules/
 npm-debug.log
 yarn-error.log
-
-# Python
 __pycache__/
 *.pyc
-
-# Java
 target/
 *.class
-
-# PHP Composer
 vendor/
-
-# Личные настройки
 .env
 .env.local
-
-# Лог-файлы
 *.log
-
-# Архивы и временные файлы
 *.zip
 *.tar.gz
 *.tmp
